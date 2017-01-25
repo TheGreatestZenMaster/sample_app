@@ -1,1 +1,15 @@
-# 
+one:
+  follower: jake
+  followed: lana
+
+two:
+  follower: jake
+  followed: malory
+
+three:
+  follower: lana
+  followed: jake
+
+four:
+  follower: archer
+  followed: jake
